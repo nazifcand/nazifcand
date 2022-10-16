@@ -4,7 +4,7 @@
 
 [<img align="left" alt="nazif-can-durgut-tw" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/nazifcand)
 
-[<img align="left" alt="nazif-can-durgut-ig" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_nazifcan/)
+[<img align="left" alt="nazif-can-durgut-ig" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/nazifcandurgut/)
 
 [<img align="left" alt="nazif-can-durgut-in" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/nazif-can-durgut-261804181/)
 
