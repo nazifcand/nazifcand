@@ -2,45 +2,6 @@
 
 Hello World
 
-# Links
-
-<!-- twitter - instagram - github - gitlab - linkedin - youtube - mail -->
-<div class='list-social'>
-
-<a href='https://www.twitter.com/nazifcand' target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-</a>
-
-<a href='https://www.instagram.com/nazifcandurgut' target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-
-<a href='https://github.com/nazifcand' target="_blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-<a href='https://gitlab.com/nazifcand' target="_blank">
-<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab" alt="GitLab">
-</a>
-
-<a href='https://gitlab.com/nazifcand' target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href='https://www.youtube.com/channel/UCwBUHoMilKCiwg_P4IOVcKA' target="_blank">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-</a>
-
-<a href='https://nazifcandurgut.dev' target="_blank">
-<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
-</a>
-
-<a href='mailto:nazifcandurgutt@gmail.com' target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail">
-</a>
-
-</div>
-
 # Frontend Technologies
 
 <div class="list-images" >
@@ -107,4 +68,41 @@ Hello World
 <img src="https://github-readme-stats.vercel.app/api?username=nazifcand&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nazifcand's GitHub stats" style='width:49%' />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazifcand&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" style='width:49%' />
+</div>
+
+# Links
+
+<!-- twitter - instagram - github - gitlab - linkedin - youtube - mail -->
+<div class='list-social'>
+<a href='https://www.twitter.com/nazifcand' target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+</a>
+
+<a href='https://www.instagram.com/nazifcandurgut' target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+<a href='https://github.com/nazifcand' target="_blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href='https://gitlab.com/nazifcand' target="_blank">
+<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab" alt="GitLab">
+</a>
+
+<a href='https://gitlab.com/nazifcand' target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href='https://www.youtube.com/channel/UCwBUHoMilKCiwg_P4IOVcKA' target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+</a>
+
+<a href='https://nazifcandurgut.dev' target="_blank">
+<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
+</a>
+
+<a href='mailto:nazifcandurgutt@gmail.com' target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail">
+</a>
 </div>
