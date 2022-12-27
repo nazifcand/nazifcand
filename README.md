@@ -11,8 +11,8 @@ yeniden kullanılabilirliğine ve kod kalitesine büyük özen gösteriyorum.
 ```
 Hi There, I am Nazif 👋
 
-I fullstack developer. 
-I live in Bursa/Turkey. I ❤️ write JavaScript. 
+I'm a fullstack developer. 
+I currently live in Bursa/Turkey. I really enjoy writing JavaScript.
 I take great care in the experience, architecture, reusable and code quality of the things I build.
 ```
 
