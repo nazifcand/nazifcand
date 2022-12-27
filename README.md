@@ -1,6 +1,20 @@
 # About Me
 
-Hello World
+```
+Merhaba, ben Nazif 👋
+
+Ben fullstack geliştiriciyim. Bursa/Türkiye'de yaşıyorum. 
+JavaScript yazmayı çok seviyorum. Yaptığım şeylerin deneyimine, mimarisine, 
+yeniden kullanılabilirliğine ve kod kalitesine büyük özen gösteriyorum.
+```
+
+```
+Hi There, I am Nazif 👋
+
+I fullstack developer. 
+I live in Bursa/Turkey. I ❤️ write JavaScript. 
+I take great care in the experience, architecture, reusable and code quality of the things I build.
+```
 
 # Frontend Technologies
 
