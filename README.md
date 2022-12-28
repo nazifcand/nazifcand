@@ -3,9 +3,9 @@
 ```
 Merhaba, ben Nazif 👋
 
-Ben fullstack geliştiriciyim. Bursa/Türkiye'de yaşıyorum. 
-JavaScript yazmayı çok seviyorum. Yaptığım şeylerin deneyimine, mimarisine, 
-yeniden kullanılabilirliğine ve kod kalitesine büyük özen gösteriyorum.
+Ben fullstack geliştiriciyim. 
+Bursa/Türkiye'de yaşıyorum. JavaScript yazmayı çok seviyorum. 
+Yaptığım şeylerin deneyimine, mimarisine, yeniden kullanılabilirliğine ve kod kalitesine büyük özen gösteriyorum.
 ```
 
 ```
