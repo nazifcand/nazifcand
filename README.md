@@ -21,8 +21,6 @@ I take great care in the experience, architecture, reusable and code quality of 
 <div class="list-images" >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width:40px" alt="JavaScript">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="width:40px" alt="TypeScript">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width:40px" alt="HTML5">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width:40px" alt="CSS3">
@@ -42,8 +40,6 @@ I take great care in the experience, architecture, reusable and code quality of 
 
 <div class="list-images" >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style='width:40px' alt="JavaScript">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style='width:40px' alt="TypeScript">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style='width:40px' alt="Node.js">
 
