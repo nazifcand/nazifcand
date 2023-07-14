@@ -108,7 +108,7 @@ I take great care in the experience, architecture, reusable and code quality of 
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
 
-<a href='https://nazifcandurgut.dev' target="_blank">
+<a href='https://nazif' target="_blank">
 <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
 </a>
 
